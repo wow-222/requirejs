@@ -8,5 +8,6 @@
 require.js多页和单页的配置<br>
 配置了常用的jquery、layui<br>
 配置require-css自动处理第三方库的css依懒关系<br>
+要引用其他的第三方库请自行在main.js 或 config.js进行配置即可<br>
 
 此Demo一般的项目均可直接使用
